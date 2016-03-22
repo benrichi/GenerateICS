@@ -1,0 +1,6 @@
+D:\Code\GenerateICS\GenerateICS\bin\Debug\GenerateICS.exe.config
+D:\Code\GenerateICS\GenerateICS\bin\Debug\GenerateICS.exe
+D:\Code\GenerateICS\GenerateICS\bin\Debug\GenerateICS.pdb
+D:\Code\GenerateICS\GenerateICS\obj\Debug\GenerateICS.csprojResolveAssemblyReference.cache
+D:\Code\GenerateICS\GenerateICS\obj\Debug\GenerateICS.exe
+D:\Code\GenerateICS\GenerateICS\obj\Debug\GenerateICS.pdb
